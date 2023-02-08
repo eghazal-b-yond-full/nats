@@ -1,0 +1,7 @@
+---
+apiVersion: v2
+name: surveyor
+description: NATS Monitoring, Simplified.
+type: application
+version: 0.15.2
+appVersion: 0.4.3

@@ -1,0 +1,15 @@
+---
+apiVersion: v2
+appVersion: 0.9.2
+description: A Helm chart for NACK
+name: nack
+keywords:
+- nats
+- jetstream
+- cncf
+version: 0.20.3
+maintainers:
+- name: Waldemar Quevedo
+  url: https://github.com/wallyqs
+  email: wally@nats.io
+icon: https://nats.io/img/nats-icon-color.png
